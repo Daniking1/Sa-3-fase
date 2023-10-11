@@ -1,7 +1,49 @@
 body {
-    background-color: cornflowerblue;
+    background-color: #0a8bec;
+}
+ab {
+    display: inline-block;
+    background-color: #81b5dd;
+    box-shadow: 10px 15px #3b87c1;
+    border: 30px groove #005494;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+b {
+    display: inline-block;
+    background-color: #81b5dd;
+    box-shadow: 10px 15px #3b87c1;
+    border: 30px groove #005494;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+c {
+    display: inline-block;
+    background-color: #81b5dd;
+    box-shadow: 10px 15px #3b87c1;
+    border: 30px groove #005494;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+d {
+    display: inline-block;
+    background-color: #81b5dd;
+    box-shadow: 10px 15px #3b87c1;
+    border: 30px groove #005494;
+    box-sizing: border-box;
+    vertical-align: top;
 }
 a {
-    display:block;
-    background-color: white ;
+    display: inline-block;
+    background-color: #81b5dd;
+    box-shadow: 10px 15px #3b87c1;
+    border: 30px groove #005494;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #237bbd;
+    text-align: center;
+    box-shadow: 10px 15px #3b87c1;
+    border: 30px groove #005494;
 }
