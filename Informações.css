@@ -1,0 +1,9 @@
+.item{
+    color: #3e444a;
+    font: 15px Georgia, serif;
+    background-color: #99b5d1;
+    display: inline-block;
+    text-align: center;
+    margin: 30px;
+    border: 10px solid blue;
+}

@@ -1,0 +1,12 @@
+.banner{
+    background-color: #b9d6eb;
+    border: 20px solid #aacbe3;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.titulo{
+    text-align: center;
+    color: #3e444a;
+    font: 30px Georgia, serif;
+    font-weight: bold;
+}
